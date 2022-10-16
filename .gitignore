@@ -1,0 +1,3 @@
+alert-sender/
+model/*.weights
+*.AAE
