@@ -38,7 +38,7 @@ def send_email(recipients: str = 'qaz8901238177818123@gmail.com'):
         except Exception as e:
             print("Error message: ", e)
 
-    return 'OK'
+    return 'OKOK'
 
 
 @app.post('/api/v2/alert')
